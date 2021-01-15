@@ -13,6 +13,7 @@ const routes = [
         component: Example2Component,
         name: "second"
     }
+    
 ];
 
 const router = new VueRouter({
