@@ -1,11 +1,20 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# This project is built using laravel
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+## Purpose
+Do U need to speed up your project building with Laravel and Vue?
+
+You just need to clone this repositories and do following things:
+
+- Install PHP Dependencies ```composer install```
+- Install Node modules Dependencies ```npm install```
+
+Running by CLI:
+```php artisan serve```
+so it will run at 127.0.0.1:8000 , you can check your browser.
+
+To Running client side, you need run it by ```npm run dev``` or ```npm run watch``` if you want watching 
+
+if you want to specific host 
 
 ## About Laravel
 
